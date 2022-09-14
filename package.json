@@ -1,0 +1,9 @@
+{
+  "name": "sbtpxyz-website",
+  "version": "1.0.0",
+  "main": "\"\"",
+  "repository": "https://github.com/insanity54/sbtpxyz-website.git",
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "Unlicense",
+  "private": true
+}
