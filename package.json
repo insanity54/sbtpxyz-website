@@ -5,5 +5,11 @@
   "repository": "https://github.com/insanity54/sbtpxyz-website.git",
   "author": "Chris Grimmett <chris@grimtech.net>",
   "license": "Unlicense",
-  "private": true
+  "private": true,
+  "scripts": {
+    "start": "http-server -d false -i false -g ./public"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
